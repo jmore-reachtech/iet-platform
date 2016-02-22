@@ -19,8 +19,8 @@
     <project name="meta-qt5/meta-qt5" path="sources/meta-qt5" remote="github" revision="jethro"/>
     <project name="meta-openembedded" path="sources/meta-openembedded" remote="oe" revision="jethro" />
     <project name="jmore-reachtech/meta-reach" path="sources/meta-reach" remote="github" revision="jethro"/>
-    <project name="jmore-reachtech/meta-reach" path="sources/meta-iet" remote="github" revision="jethro"/>
+    <project name="jmore-reachtech/meta-iet" path="sources/meta-iet" remote="github" revision="jethro"/>
 
-    <project name="jmore-reachtech/reach-platform" path="sources/conf/repo" remote="github" revision="jethro"/>
+    <project name="jmore-reachtech/iet-platform" path="sources/conf/repo" remote="github" revision="jethro"/>
     <project name="jmore-reachtech/reach-config" path="sources/conf/tools" remote="github" revision="jethro"/>
 </manifest>
