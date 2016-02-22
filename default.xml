@@ -22,5 +22,5 @@
     <project name="jmore-reachtech/meta-iet" path="sources/meta-iet" remote="github" revision="jethro"/>
 
     <project name="jmore-reachtech/iet-platform" path="sources/conf/repo" remote="github" revision="jethro"/>
-    <project name="jmore-reachtech/reach-config" path="sources/conf/tools" remote="github" revision="jethro"/>
+    <project name="jmore-reachtech/iet-config" path="sources/conf/tools" remote="github" revision="jethro"/>
 </manifest>
