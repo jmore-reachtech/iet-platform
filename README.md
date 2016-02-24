@@ -10,7 +10,7 @@ $: chmod a+x ~/bin/repo
 Download the BSP source:
 
 $: PATH=${PATH}:~/bin  
-$: mkdir reach-bsp  
+$: mkdir iet-bsp  
 $: cd iet-bsp  
 $: repo init -u https://github.com/jmore-reachtech/iet-platform -b jethro  
 $: repo sync  
